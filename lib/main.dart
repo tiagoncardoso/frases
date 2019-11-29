@@ -38,7 +38,6 @@ class _FrasesState extends State<Frases> {
                 'FRASES DO DIA',
               style: TextStyle(
                 fontSize: 37,
-                fontFamily: 'Redressed',
                 fontWeight: FontWeight.bold,
                 color: Colors.orange
               ),
